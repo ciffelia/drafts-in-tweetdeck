@@ -2,7 +2,7 @@
 // @name         Drafts in TweetDeck
 // @namespace    https://ciffelia.com/
 // @version      1.0.0
-// @description  Drafts in TweetDeck
+// @description  Save drafts in TweetDeck
 // @author       Ciffelia <mc.prince.0203@gmail.com> (https://ciffelia.com/)
 // @license      MIT
 // @homepage     https://github.com/ciffelia/drafts-in-tweetdeck#readme

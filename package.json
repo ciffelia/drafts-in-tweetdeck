@@ -1,7 +1,7 @@
 {
   "name": "drafts-in-tweetdeck",
   "version": "1.0.0",
-  "description": "Drafts in TweetDeck",
+  "description": "Save drafts in TweetDeck",
   "main": "src/index.js",
   "repository": "github:ciffelia/drafts-in-tweetdeck",
   "author": "Ciffelia <mc.prince.0203@gmail.com> (https://ciffelia.com/)",
