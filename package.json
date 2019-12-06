@@ -1,0 +1,30 @@
+{
+  "name": "drafts-in-tweetdeck",
+  "version": "1.0.0",
+  "description": "Drafts in TweetDeck",
+  "main": "src/index.js",
+  "repository": "github:ciffelia/drafts-in-tweetdeck",
+  "author": "Ciffelia <mc.prince.0203@gmail.com> (https://ciffelia.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/ciffelia/drafts-in-tweetdeck#readme",
+  "bugs": "https://github.com/ciffelia/drafts-in-tweetdeck/issues",
+  "private": true,
+  "scripts": {
+    "test": "standard",
+    "fix": "standard --fix",
+    "build": "rollup --config",
+    "watch": "rollup --config --watch"
+  },
+  "devDependencies": {
+    "rollup": "^1.27.8",
+    "standard": "^14.3.1"
+  },
+  "standard": {
+    "envs": [
+      "browser"
+    ],
+    "globals": [
+      "jQuery"
+    ]
+  }
+}
