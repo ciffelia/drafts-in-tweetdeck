@@ -25,6 +25,9 @@
     ],
     "globals": [
       "jQuery"
+    ],
+    "ignore": [
+      "bundle.js"
     ]
   }
 }
