@@ -10,10 +10,9 @@
   "bugs": "https://github.com/ciffelia/drafts-in-tweetdeck/issues",
   "private": true,
   "scripts": {
-    "test": "standard",
-    "fix": "standard --fix",
     "build": "rollup --config",
-    "watch": "rollup --config --watch"
+    "lint": "standard",
+    "fix": "standard --fix"
   },
   "devDependencies": {
     "rollup": "^1.27.14",
