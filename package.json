@@ -16,7 +16,7 @@
     "watch": "rollup --config --watch"
   },
   "devDependencies": {
-    "rollup": "^1.27.8",
+    "rollup": "^1.27.14",
     "standard": "^14.3.1"
   },
   "standard": {
